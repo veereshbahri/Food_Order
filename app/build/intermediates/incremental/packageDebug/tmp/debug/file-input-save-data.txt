@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Aug 15 17:15:21 IST 2019
+1.base=C\:\\Users\\Nandan Pandey\\Desktop\\ALGO\\Food_Ordering_App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.path=Fonts/NABILA.TTF
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\Nandan Pandey\\Desktop\\ALGO\\Food_Ordering_App-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=databases/Tomato.db
+0.set=ASSET
+0.base=C\:\\Users\\Nandan Pandey\\Desktop\\ALGO\\Food_Ordering_App-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex
